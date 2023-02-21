@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$nombre = "Dilan";
+$nombre = "Ximena";
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
